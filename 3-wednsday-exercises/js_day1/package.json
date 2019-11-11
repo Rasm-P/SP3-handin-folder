@@ -1,0 +1,8 @@
+{
+    "name": "js_day1",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "Rasmus2",
+    "contributors": [],
+    "dependencies": {}
+}
